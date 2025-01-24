@@ -30,7 +30,7 @@ annotate service.Incidents with @(
                 },
                 {
                     $Type : 'UI.ReferenceFacet',
-                    Label : '{i18n>Details}',
+                    Label : '{i18n>Detailsss}',
                     ID : 'i18nDetails',
                     Target : '@UI.FieldGroup#i18nDetails',
                 },
